@@ -7,5 +7,5 @@ Repozytorium z przedmiotu "Programowanie Współbieżne"
 
 | Name Surname (initials) | GUID                                     |
 | ----------------------- | ---------------------------------------- |
-| Bartłomiej Rutowicz (BR)| `{FD9D086C-532F-4AAC-BB99-69D7798837D8}` |
-| Bartosz Żuber (BŻ)      | `{44FBFCF5-4430-4964-878D-1867DC679E0D}` |
+| Bartłomiej Rutowicz (BR)| `{A31458C6-58B6-4B7A-AFF4-79F2470C953F}` |
+| Bartosz Żuber (BŻ)      | `{233536CA-08FD-4B2B-BB03-FD98E0807754}` |
