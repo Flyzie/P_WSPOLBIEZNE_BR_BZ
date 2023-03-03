@@ -1,0 +1,9 @@
+C:\Program Files\dotnet\sdk\7.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Nie odnaleziono pliku zasobów „C:\Users\48534\source\lut\Projekt_Bazowy\v2\0\b\Test_bazowy\obj\project.assets.json”. Uruchom przywracanie pakietu NuGet, aby wygenerowaæ ten plik.
+
+Kompilacja NIE POWIOD£A SIÊ.
+
+C:\Program Files\dotnet\sdk\7.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.PackageDependencyResolution.targets(266,5): error NETSDK1004: Nie odnaleziono pliku zasobów „C:\Users\48534\source\lut\Projekt_Bazowy\v2\0\b\Test_bazowy\obj\project.assets.json”. Uruchom przywracanie pakietu NuGet, aby wygenerowaæ ten plik.
+    Ostrze¿enia: 0
+    Liczba b³êdów: 1
+
+Czas, który up³yn¹³: 00:00:00.00
