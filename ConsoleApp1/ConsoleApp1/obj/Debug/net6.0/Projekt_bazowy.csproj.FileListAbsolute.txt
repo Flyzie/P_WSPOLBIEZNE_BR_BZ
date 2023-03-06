@@ -1,0 +1,15 @@
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Projekt_bazowy.exe
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Projekt_bazowy.deps.json
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Projekt_bazowy.runtimeconfig.json
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Projekt_bazowy.dll
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Projekt_bazowy.pdb
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.csproj.AssemblyReference.cache
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.AssemblyInfoInputs.cache
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.AssemblyInfo.cs
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.csproj.CoreCompileInputs.cache
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.dll
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Projekt_bazowy.dll
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.pdb
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Projekt_bazowy.genruntimeconfig.cache
+C:\Users\48534\source\repos\P_WSPOLBIEZNE_BR_BZ\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Projekt_bazowy.dll
