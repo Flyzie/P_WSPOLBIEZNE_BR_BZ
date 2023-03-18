@@ -1,0 +1,15 @@
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\bin\Debug\net6.0\Tutorial1.exe
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\bin\Debug\net6.0\Tutorial1.deps.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\bin\Debug\net6.0\Tutorial1.runtimeconfig.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\bin\Debug\net6.0\Tutorial1.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\bin\Debug\net6.0\Tutorial1.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.csproj.AssemblyReference.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.AssemblyInfoInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.AssemblyInfo.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.csproj.CoreCompileInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\refint\Tutorial1.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\Tutorial1.genruntimeconfig.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\Tutoriale\Bartus\Tutorial1\Tutorial1\obj\Debug\net6.0\ref\Tutorial1.dll
