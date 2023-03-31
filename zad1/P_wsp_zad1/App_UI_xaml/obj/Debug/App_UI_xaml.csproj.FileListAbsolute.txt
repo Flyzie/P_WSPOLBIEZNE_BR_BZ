@@ -1,0 +1,16 @@
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\bin\Debug\App_UI_xaml.exe.config
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\bin\Debug\App_UI_xaml.exe
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\bin\Debug\App_UI_xaml.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.csproj.AssemblyReference.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.csproj.SuggestedBindingRedirects.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\View\MainWindow.g.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App.g.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml_MarkupCompile.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml_MarkupCompile.lref
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\View\MainWindow.baml
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.g.resources
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.Properties.Resources.resources
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.csproj.GenerateResource.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.csproj.CoreCompileInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.exe
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\zad1\P_wsp_zad1\App_UI_xaml\obj\Debug\App_UI_xaml.pdb
