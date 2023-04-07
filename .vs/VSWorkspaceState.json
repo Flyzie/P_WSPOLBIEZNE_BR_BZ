@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\zadanie0",
+    "\\zad1",
+    "\\zad1\\P_wsp_zad1",
+    "\\zad1\\P_wsp_zad1\\App_UI_xaml",
+    "\\zad1\\P_wsp_zad1\\App_UI_xaml\\View",
     "\\zadanie0\\ConsoleApp1",
     "\\zadanie0\\ConsoleApp1\\ConsoleApp1"
   ],
+  "SelectedNode": "\\zad1\\P_wsp_zad1\\App_UI_xaml\\View\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
