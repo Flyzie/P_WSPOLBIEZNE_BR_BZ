@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
+    "",
     "\\Model",
-    "\\Model\\bin"
+    "\\Model\\bin",
+    "\\zad1",
+    "\\zad1\\zad1"
   ],
+  "SelectedNode": "\\zad1\\zad1.sln",
   "PreviewInSolutionExplorer": false
 }
