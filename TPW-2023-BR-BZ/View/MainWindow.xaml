@@ -1,0 +1,63 @@
+﻿<Window x:Class="View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:ViewModel;assembly=ViewModel"
+        xmlns:local="clr-namespace:View"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="450"
+        Width="800"
+		Background="#aaa" Foreground="AliceBlue"
+		FontSize="14"
+        d:DesignHeight="450"
+        d:DesignWidth="800"
+        ResizeMode="NoResize">
+
+
+
+
+   
+    <Grid>
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="700"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Margin="600,83,0,0">
+            <Button Content="&#xD;&#xA;-&#xD;&#xA;"
+                    Command="{Binding DecreaseButton}" Height="38" Width="75"/>
+            <Button Content="+"
+                    Command="{Binding IncreaseButton}" RenderTransformOrigin="0.5,-2.188" Height="36" Width="77"/>
+            <Label HorizontalContentAlignment="Center" 
+				    Content="{Binding BallsCount}" />
+            <Button Content="start&#xD;&#xA;"
+                    Command="{Binding StartSimulationButton}" Height="61" Width="74"/>
+            <Button Content="Clear" HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Command="{Binding StopSimulationButton}"/>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="50,24,50,0">
+            <Canvas x:Name="BallCanvas" Height="400" Width="650">
+                <Border BorderBrush="#707070" BorderThickness="1" Height="400" Width="650" Canvas.Left="-101" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+                <ItemsControl ItemsSource="{Binding Path = Circles}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate >
+                            <Canvas>
+                                <Ellipse Width="{Binding r}" Height="{Binding r}" Fill="#FF0000" Stroke="#000000" StrokeThickness="4">
+                                    <Ellipse.RenderTransform>
+                                        <TranslateTransform X="{Binding X}" Y="{Binding Y}"/>
+                                    </Ellipse.RenderTransform>
+                                </Ellipse>
+                            </Canvas>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+            </Canvas>
+        </StackPanel>
+        <GridSplitter Grid.Column="0" HorizontalAlignment="Left" Height="100" Margin="300,359,0,0" VerticalAlignment="Top" Width="6"/>
+    </Grid>
+</Window>
