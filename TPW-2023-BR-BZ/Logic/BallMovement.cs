@@ -14,10 +14,13 @@ namespace Logic
         private Ball ball;
         public int id;
         private BallLogic owner;
-        public event EventHandler<BallMovement>? PositionChange;
 
         public double boundryX;
         public double boundryY;
+
+        public event EventHandler<BallMovement>? PositionChange;
+
+        
         public BallMovement(Ball b, int id, BallLogic owner, double boundryX, double boundryY)
         {
             this.ball = b;
