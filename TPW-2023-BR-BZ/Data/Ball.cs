@@ -4,11 +4,11 @@ namespace Data
 {
     public class Ball
     {
-        public double Speed { get; set; }  
-        public double Position { get; set; }
+        public Vector2 Speed { get; set; }  
+        public Vector2 Position { get; set; }
         public double Radius { get; set; }
 
-        public Ball(double p, double r, double S) //parametry piłek
+        public Ball(Vector2 p, double r, Vector2 S) //parametry piłek
         {
             Position = p;
             Radius = 40;

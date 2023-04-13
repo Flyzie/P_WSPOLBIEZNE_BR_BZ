@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Data
 {
-    public class BallCount
+    public class BallCount : DataAPI
     {
         private List<Ball> balls;  //tutaj ustawiamy ilosc pilek
 
@@ -13,6 +13,11 @@ namespace Data
             balls = new List<Ball>();
         }
 
-        
+        public override Ball GetBall(int index)
+        {
+            return balls[index];
+        }
+
+
     }
 }
