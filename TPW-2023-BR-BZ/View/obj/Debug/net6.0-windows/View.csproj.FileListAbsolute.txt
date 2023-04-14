@@ -37,3 +37,11 @@ C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\View\obj\Debug\net6.0
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\View\obj\Debug\net6.0-windows\View.dll
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\View\obj\Debug\net6.0-windows\refint\View.dll
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\View\obj\Debug\net6.0-windows\View.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View_MarkupCompile.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View_MarkupCompile.lref
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\refint\View.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.pdb

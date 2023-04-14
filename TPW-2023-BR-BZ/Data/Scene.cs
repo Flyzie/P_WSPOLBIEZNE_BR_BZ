@@ -9,11 +9,11 @@ namespace Data
 
         public double Height { get; }  //aranżowanie sceny dla piłek
 
-        public double Width { get; }
-       
-        public Scene(double w, double h)
+        public double Length { get; }
+
+        public Scene(double l, double h)
         {
-            Width = w;
+            Length = l;
             Height = h;
         }
     }

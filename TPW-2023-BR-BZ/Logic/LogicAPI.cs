@@ -12,11 +12,19 @@ namespace Logic
 
         public abstract Ball getBall(int index);
 
+        public abstract void addBall(int numberOfBalls);
+
+        public abstract void removeBall(int numberOfBalls);
+        public abstract int getBallCount();
+        public abstract void ProgramStart();
+
+        public abstract void ProgramStop();
+
         protected virtual void onPositionChange(BallMovement b)
         {
             PositionChangedEvent?.Invoke(this, b);
         }
-        
+
 
     }
 }

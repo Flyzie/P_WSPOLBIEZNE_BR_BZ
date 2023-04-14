@@ -81,19 +81,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AeroCool\\.nuget\\packages\\": {}
+    "C:\\Users\\48534\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\View.csproj",
+      "projectUniqueName": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\View.csproj",
       "projectName": "View",
-      "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\View.csproj",
-      "packagesPath": "C:\\Users\\AeroCool\\.nuget\\packages\\",
-      "outputPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\obj\\",
+      "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\View.csproj",
+      "packagesPath": "C:\\Users\\48534\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\View\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AeroCool\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\48534\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -101,14 +106,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj"
+            "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj"
             }
           }
         }

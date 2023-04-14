@@ -28,3 +28,18 @@ C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netst
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.dll
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.deps.json
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.AssemblyReference.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.pdb

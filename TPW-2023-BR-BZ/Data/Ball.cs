@@ -4,7 +4,7 @@ namespace Data
 {
     public class Ball
     {
-        public Vector2 Speed { get; set; }  
+        public Vector2 Speed { get; set; }
         public Vector2 Position { get; set; }
         public double Radius { get; set; }
 

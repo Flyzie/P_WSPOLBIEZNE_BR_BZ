@@ -24,3 +24,16 @@ C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Logic\obj\Debug\netst
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Logic\obj\Debug\netstandard2.1\Logic.csproj.CopyComplete
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Logic\obj\Debug\netstandard2.1\Logic.dll
 C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Logic\obj\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\bin\Debug\netstandard2.1\Logic.deps.json
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\bin\Debug\netstandard2.1\Data.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.csproj.AssemblyReference.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfoInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.AssemblyInfo.cs
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.csproj.CopyComplete
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Logic\obj\Debug\netstandard2.1\Logic.pdb

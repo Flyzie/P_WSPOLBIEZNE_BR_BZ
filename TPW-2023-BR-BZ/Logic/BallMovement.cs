@@ -15,37 +15,40 @@ namespace Logic
         public int id;
         private BallLogic owner;
 
-        public double boundryX;
-        public double boundryY;
+        public double Xend;
+        public double Yend;
 
         public event EventHandler<BallMovement>? PositionChange;
 
-        
-        public BallMovement(Ball b, int id, BallLogic owner, double boundryX, double boundryY)
+
+        public BallMovement(Ball b, int id, BallLogic owner, double Xend, double Yend)
         {
             this.ball = b;
             this.id = id;
             this.owner = owner;
-            this.boundryX = boundryX;
-            this.boundryY = boundryY;
+            this.Xend = Xend;
+            this.Yend = Yend;
 
 
 
         }
 
-        
+        public Ball GetBall()
+        {
+            return ball;
+        }
         public async void Move()
         {
             while (!owner.CancelSimulationSource.Token.IsCancellationRequested)
             {
                 Vector2 featurePosition = this.ball.Position + this.ball.Speed;
 
-                if (featurePosition.X < 0 || featurePosition.X + this.ball.Radius > this.boundryX)
+                if (featurePosition.X < 0 || featurePosition.X + this.ball.Radius > this.Xend)
                 {
                     this.ball.Speed = this.ball.Speed * new Vector2(-1, 1);
                 }
 
-                if (featurePosition.Y < 0 || featurePosition.Y + this.ball.Radius > this.boundryY)
+                if (featurePosition.Y < 0 || featurePosition.Y + this.ball.Radius > this.Yend)
                 {
                     this.ball.Speed = this.ball.Speed * new Vector2(1, -1);
                 }
@@ -55,11 +58,10 @@ namespace Logic
                 await Task.Delay(20, owner.CancelSimulationSource.Token).ContinueWith(_ => { });
             }
         }
+
+
     }
-    public Ball GetBall()
-    {
-        return ball;
-    }
+
 
 }
 

@@ -13,6 +13,16 @@ namespace Data
             balls = new List<Ball>();
         }
 
+        public override int GetBallCount()
+        {
+            return balls.Count;
+        }
+
+        public override void AddBall(Ball ball)
+        {
+            balls.Add(ball);
+        }
+
         public override Ball GetBall(int index)
         {
             return balls[index];
