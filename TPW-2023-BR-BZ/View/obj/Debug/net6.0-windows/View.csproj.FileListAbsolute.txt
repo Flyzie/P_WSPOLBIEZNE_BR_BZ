@@ -45,3 +45,34 @@ C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.dll
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\refint\View.dll
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\App.g.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View_MarkupCompile.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View_MarkupCompile.lref
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\refint\View.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\View.exe
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\View.deps.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\View.runtimeconfig.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\View.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\View.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Data.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Logic.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Model.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\ViewModel.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\ViewModel.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Data.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Logic.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\bin\Debug\net6.0-windows\Model.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\App.baml
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\MainWindow.baml
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.g.resources
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.csproj.CopyComplete
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\View\obj\Debug\net6.0-windows\ref\View.dll

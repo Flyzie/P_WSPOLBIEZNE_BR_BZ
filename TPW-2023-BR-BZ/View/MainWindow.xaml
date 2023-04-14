@@ -18,7 +18,9 @@
 
 
 
-   
+    <Window.DataContext>
+        <vm:ViewModelClass/>
+    </Window.DataContext>
     <Grid>
 
 
@@ -26,23 +28,23 @@
             <ColumnDefinition/>
             <ColumnDefinition Width="700"/>
         </Grid.ColumnDefinitions>
-        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Column="1" Margin="600,83,0,0">
-            <Button Content="&#xD;&#xA;-&#xD;&#xA;"
-                    Command="{Binding DecreaseButton}" Height="38" Width="75"/>
-            <Button Content="+"
-                    Command="{Binding IncreaseButton}" RenderTransformOrigin="0.5,-2.188" Height="36" Width="77"/>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="1" Margin="578,0,0,0">
+            <Button Content="+" HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Command="{Binding IncreaseButton}"/>
             <Label HorizontalContentAlignment="Center" 
 				    Content="{Binding BallsCount}" />
-            <Button Content="start&#xD;&#xA;"
-                    Command="{Binding StartSimulationButton}" Height="61" Width="74"/>
+            <Button Content="-" HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Command="{Binding DecreaseButton}"/>
+            <Button Content="Add Balls"
+                    Command="{Binding StartSimulationButton}"/>
             <Button Content="Clear" HorizontalAlignment="Center" VerticalAlignment="Center"
                     Command="{Binding StopSimulationButton}"/>
         </StackPanel>
-        <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="50,24,50,0">
+        <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="-27,34,127,0">
             <Canvas x:Name="BallCanvas" Height="400" Width="650">
-                <Border BorderBrush="#707070" BorderThickness="1" Height="400" Width="650" Canvas.Left="-101" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <Border BorderBrush="#707070" BorderThickness="1" Height="400" Width="650" HorizontalAlignment="Left" Canvas.Left="10" VerticalAlignment="Top" Canvas.Top="-10"/>
 
-                <ItemsControl ItemsSource="{Binding Path = Circles}">
+                <ItemsControl ItemsSource="{Binding Circles}">
                     <ItemsControl.ItemTemplate>
                         <DataTemplate >
                             <Canvas>

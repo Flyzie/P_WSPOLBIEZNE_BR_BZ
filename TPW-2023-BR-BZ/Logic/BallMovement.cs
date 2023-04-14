@@ -20,7 +20,7 @@ namespace Logic
 
         public event EventHandler<BallMovement>? PositionChange;
 
-
+        //Konstruktor
         public BallMovement(Ball b, int id, BallLogic owner, double Xend, double Yend)
         {
             this.ball = b;
@@ -37,6 +37,8 @@ namespace Logic
         {
             return ball;
         }
+
+        //Funkcja definiująca zachowanie kulki, aktualizuje jej pozycje (WYkrywa kolizje ze ścianą ????).
         public async void Move()
         {
             while (!owner.CancelSimulationSource.Token.IsCancellationRequested)

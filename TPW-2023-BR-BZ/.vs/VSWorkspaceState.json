@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ViewModel"
   ],
-  "SelectedNode": "\\TPW-balls.sln",
+  "SelectedNode": "\\ViewModel\\ViewModelClass.cs",
   "PreviewInSolutionExplorer": false
 }

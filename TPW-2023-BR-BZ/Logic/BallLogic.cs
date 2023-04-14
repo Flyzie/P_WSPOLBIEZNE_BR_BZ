@@ -8,15 +8,24 @@ using System.Threading.Tasks;
 
 namespace Logic
 {
+
+    /// <summary>
+    /// Ball logic zajmuje się tworzeniem kulek i ich zarządzaniem w danej scenie
+    /// </summary>
     public class BallLogic : LogicAPI
     {
+        // Zmienna przechowująca liczbe kul istniejących w scenie
         public BallCount Balls { get; set; }
+
+        //Zmienna przechowująca parametry sceny
         public Scene Scene { get; set; }
 
+        //Funkcja pozwalająca zatrzymać symulacje
         public CancellationTokenSource CancelSimulationSource { get; private set; }
 
         private bool _started = false;
 
+        //Konstruktor inicjalizujący kulki, scene i warunek stopu
         public BallLogic(double w, double h)
         {
             Scene = new Scene(w, h);
@@ -24,17 +33,19 @@ namespace Logic
             CancelSimulationSource = new CancellationTokenSource();
         }
 
-
+        //Funkcja wywoływana gdy kulka zmieni swoją pozycje
         protected override void onPositionChange(BallMovement args)
         {
             base.onPositionChange(args);
         }
 
+        //Funkcja zwraca ilość kulek w scenie
         public override int getBallCount()
         {
             return Balls.GetBallCount();
         }
 
+        //funkcja tworząca kule o ustalonym promieniu (w sumie nie potrzebna bo zastępuje ją addBall)
         public void createBall(double r)
         {
             var rng = new Random();
@@ -46,7 +57,7 @@ namespace Logic
         }
 
 
-
+        //Funkcja dodająca do sceny określoną ilość kuli w losowej pozycji, o ustalonej wielkości i losowej prędkości.
         public override void addBall(int numberOfBalls)
         {
             var rng = new Random();
@@ -63,11 +74,13 @@ namespace Logic
 
         }
 
+        //Funkcja zwracająca Kulke o danym indeksie
         public override Ball getBall(int index)
         {
             return Balls.GetBall(index);
         }
 
+        //Funkcja poruszająca piłką na podstawie jej prędkości i sprawdza kolizje ze ścianą
         public void MoveBall(Ball b)
         {
             Vector2 featurePosition = b.Position + b.Speed;
@@ -84,7 +97,7 @@ namespace Logic
             b.Position = b.Position + b.Speed;
         }
 
-
+        //Funkcja uruchamiająca symulacje i umorzliwiająca ruszanie się kulek
         public override void ProgramStart()
         {
             if (CancelSimulationSource.IsCancellationRequested) return;
@@ -100,6 +113,7 @@ namespace Logic
 
         }
 
+        //Funkcja zatrzymująca symulacje
         public override void ProgramStop()
         {
             this.CancelSimulationSource.Cancel();

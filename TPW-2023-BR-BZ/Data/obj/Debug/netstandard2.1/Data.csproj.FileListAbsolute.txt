@@ -28,3 +28,13 @@ C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.dll
 C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\bin\Debug\netstandard2.1\Data.deps.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\bin\Debug\netstandard2.1\Data.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\bin\Debug\netstandard2.1\Data.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.csproj.AssemblyReference.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.AssemblyInfoInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.AssemblyInfo.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.csproj.CoreCompileInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Data\obj\Debug\netstandard2.1\Data.pdb
