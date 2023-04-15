@@ -63,14 +63,14 @@ namespace ViewModel
         {
             X = x;
             Y = y;
-            r = 40;
+            r = 20;
 
         }
         public BallInstances(Vector2 position)
         {
             X = position.X;
             Y = position.Y;
-            r = 40;
+            r = 20;
         }
         public void ChangePosition(Vector2 position)
         {
@@ -94,7 +94,7 @@ namespace ViewModel
         {
             X = 0;
             Y = 0;
-            r = 40;
+            r = 20;
         }
 
         
@@ -139,7 +139,7 @@ namespace ViewModel
             model = new ModelClass();
 
             // Ustawia domyślną liczbę piłek na 3
-            BallsCount = 3;
+            BallsCount = 2;
 
             // Tworzy nowy obiekt klasy CommandSharer dla przycisku dodawania piłek
             // i przypisuje mu metodę anonimową, która zwiększa wartość BallsCount o 1
