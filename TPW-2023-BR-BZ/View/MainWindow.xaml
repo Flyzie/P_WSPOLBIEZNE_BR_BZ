@@ -30,15 +30,15 @@
         </Grid.ColumnDefinitions>
         <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Column="1" Margin="578,0,0,0">
             <Button Content="+" HorizontalAlignment="Center" VerticalAlignment="Center"
-                    Command="{Binding IncreaseButton}"/>
+                    Command="{Binding AddBallNumberButton}"/>
             <Label HorizontalContentAlignment="Center" 
 				    Content="{Binding BallsCount}" />
             <Button Content="-" HorizontalAlignment="Center" VerticalAlignment="Center"
-                    Command="{Binding DecreaseButton}"/>
+                    Command="{Binding RemoveBallNumberButton}"/>
             <Button Content="Add Balls"
-                    Command="{Binding StartSimulationButton}"/>
+                    Command="{Binding BeginSceneButton}"/>
             <Button Content="Clear" HorizontalAlignment="Center" VerticalAlignment="Center"
-                    Command="{Binding StopSimulationButton}"/>
+                    Command="{Binding StopSceneButton}"/>
         </StackPanel>
         <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="-27,34,127,0">
             <Canvas x:Name="BallCanvas" Height="400" Width="650">
@@ -48,7 +48,7 @@
                     <ItemsControl.ItemTemplate>
                         <DataTemplate >
                             <Canvas>
-                                <Ellipse Width="{Binding r}" Height="{Binding r}" Fill="#FF0000" Stroke="#000000" StrokeThickness="4">
+                                <Ellipse Width="{Binding r}" Height="{Binding r}" Fill="#B1ED02" Stroke="#E8E7F2" StrokeThickness="4">
                                     <Ellipse.RenderTransform>
                                         <TranslateTransform X="{Binding X}" Y="{Binding Y}"/>
                                     </Ellipse.RenderTransform>

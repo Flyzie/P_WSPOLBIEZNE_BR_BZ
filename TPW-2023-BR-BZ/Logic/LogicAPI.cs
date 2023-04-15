@@ -15,7 +15,9 @@ namespace Logic
         public abstract void addBall(int numberOfBalls);
 
         public abstract void removeBall(int numberOfBalls);
+
         public abstract int getBallCount();
+
         public abstract void ProgramStart();
 
         public abstract void ProgramStop();
