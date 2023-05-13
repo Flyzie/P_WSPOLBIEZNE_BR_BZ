@@ -11,7 +11,7 @@ namespace Data
         public Ball(Vector2 p, double r, Vector2 S) //parametry piłek
         {
             Position = p;
-            Radius = 40;
+            Radius = 20;
             Speed = S;
         }
     }

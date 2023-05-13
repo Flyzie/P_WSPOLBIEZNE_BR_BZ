@@ -8,6 +8,8 @@ namespace Data
     {
         private List<Ball> balls;  //tutaj ustawiamy ilosc pilek
 
+        public readonly object LockedBall = new object();
+
         public BallCount()
         {
             balls = new List<Ball>();

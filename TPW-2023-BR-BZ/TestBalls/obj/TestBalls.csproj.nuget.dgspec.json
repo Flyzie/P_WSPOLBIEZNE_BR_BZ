@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj": {}
+    "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
+    "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj",
+        "projectUniqueName": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\48534\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\obj\\",
+        "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\AeroCool\\.nuget\\packages\\",
+        "outputPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48534\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AeroCool\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,21 +59,17 @@
         }
       }
     },
-    "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj": {
+    "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj",
+        "projectUniqueName": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj",
-        "packagesPath": "C:\\Users\\48534\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\obj\\",
+        "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\AeroCool\\.nuget\\packages\\",
+        "outputPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48534\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AeroCool\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,15 +77,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj"
+              "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
+                "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj"
               }
             }
           }
@@ -128,21 +118,17 @@
         }
       }
     },
-    "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj": {
+    "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj",
+        "projectUniqueName": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj",
         "projectName": "TestBalls",
-        "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj",
-        "packagesPath": "C:\\Users\\48534\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\obj\\",
+        "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\TestBalls.csproj",
+        "packagesPath": "C:\\Users\\AeroCool\\.nuget\\packages\\",
+        "outputPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\TestBalls\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48534\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\AeroCool\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,18 +136,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj"
+              "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj": {
+                "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Data\\Data.csproj"
               },
-              "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj"
+              "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj": {
+                "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Logic\\Logic.csproj"
               }
             }
           }

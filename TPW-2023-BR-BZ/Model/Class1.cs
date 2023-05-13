@@ -29,7 +29,7 @@ namespace Model
 
         public ModelClass()
         {
-            SceneLength = 600;
+            SceneLength = 690;
             SceneHeight = 600;
             logic = new BallLogic(SceneLength, SceneHeight);
             NumberOfBalls = 0;

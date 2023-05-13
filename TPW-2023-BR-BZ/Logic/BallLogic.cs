@@ -46,15 +46,7 @@ namespace Logic
         }
 
         //funkcja tworząca kule o ustalonym promieniu (w sumie nie potrzebna bo zastępuje ją addBall)
-        public void createBall(double r)
-        {
-            var rng = new Random();
-            var x = ((double)rng.NextDouble() * (Scene.Length - (2 * r)) + r);
-            var y = ((double)rng.NextDouble() * (Scene.Height - (2 * r)) + r);
-            var vx = (rng.NextDouble() - 0.5) * 20;
-            var vy = (rng.NextDouble() - 0.5) * 20;
-            this.Balls.AddBall(new Ball(new Vector2((float)x, (float)y), r, new Vector2((float)vx, (float)vy)));
-        }
+       
 
 
         //Funkcja dodająca do sceny określoną ilość kuli w losowej pozycji, o ustalonej wielkości i losowej prędkości.
@@ -67,8 +59,8 @@ namespace Logic
                 var r = (rng.NextDouble() * 20) + 20;
                 var x = (rng.NextDouble() * (Scene.Length - (2 * r)) + r);
                 var y = (rng.NextDouble() * (Scene.Height - (2 * r)) + r);
-                var vx = (rng.NextDouble() - 0.5) * 20;
-                var vy = (rng.NextDouble() - 0.5) * 20;
+                var vx = (rng.NextDouble() - 0.5) * 10;
+                var vy = (rng.NextDouble() - 0.5) * 10;
                 this.Balls.AddBall(new Ball(new Vector2((float)x, (float)y), r, new Vector2((float)vx, (float)vy)));
             }
 
@@ -80,22 +72,7 @@ namespace Logic
             return Balls.GetBall(index);
         }
 
-        //Funkcja poruszająca piłką na podstawie jej prędkości i sprawdza kolizje ze ścianą
-        public void MoveBall(Ball b)
-        {
-            Vector2 featurePosition = b.Position + b.Speed;
-            if (featurePosition.X - b.Radius < 0 && featurePosition.X + b.Radius > Scene.Length)
-            {
-                b.Speed = b.Speed * new Vector2(1, -1);
-            }
-
-            if (featurePosition.Y - b.Radius < 0 && featurePosition.Y + b.Radius > Scene.Height)
-            {
-                b.Speed = b.Speed * new Vector2(-1, 1);
-            }
-
-            b.Position = b.Position + b.Speed;
-        }
+      
 
         //Funkcja uruchamiająca symulacje i umorzliwiająca ruszanie się kulek
         public override void ProgramStart()
@@ -106,7 +83,7 @@ namespace Logic
 
             for (var i = 0; i < Balls.GetBallCount(); i++)
             {
-                var ball = new BallMovement(Balls.GetBall(i), i, this, Scene.Length, Scene.Height);
+                var ball = new BallMovement(Balls.GetBall(i), i, this, Scene.Length, Scene.Height, Balls);
                 ball.PositionChange += (_, args) => onPositionChange(ball);
                 Task.Factory.StartNew(ball.Move, CancelSimulationSource.Token);
             }
