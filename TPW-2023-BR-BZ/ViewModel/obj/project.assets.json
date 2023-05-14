@@ -63,19 +63,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AeroCool\\.nuget\\packages\\": {}
+    "C:\\Users\\48534\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj",
-      "packagesPath": "C:\\Users\\AeroCool\\.nuget\\packages\\",
-      "outputPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\obj\\",
+      "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\ViewModel.csproj",
+      "packagesPath": "C:\\Users\\48534\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AeroCool\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\48534\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -83,14 +88,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Model\\Model.csproj": {
-              "projectPath": "F:\\SEM4\\PWSP\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Model\\Model.csproj"
+            "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\48534\\Desktop\\REPOZYTORIUM NOWE\\P_WSPOLBIEZNE_BR_BZ\\TPW-2023-BR-BZ\\Model\\Model.csproj"
             }
           }
         }

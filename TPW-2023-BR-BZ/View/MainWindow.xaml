@@ -42,7 +42,7 @@
         </StackPanel>
         <StackPanel VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="-27,34,127,0">
             <Canvas x:Name="BallCanvas" Height="400" Width="650">
-                <Border BorderBrush="#707070" BorderThickness="1" Height="597" Width="660" HorizontalAlignment="Center" Canvas.Left="10" VerticalAlignment="Center" Canvas.Top="-13"/>
+                <Border BorderBrush="#707070" BorderThickness="1" Height="562" Width="706" HorizontalAlignment="Center" Canvas.Left="-30" VerticalAlignment="Top"/>
 
                 <ItemsControl ItemsSource="{Binding Circles}">
                     <ItemsControl.ItemTemplate>
