@@ -31,7 +31,7 @@ namespace Model
         {
             SceneLength = 678;
             SceneHeight = 565;
-            logic = new BallLogic(SceneLength, SceneHeight);
+            logic = new BallLogic(SceneLength, SceneHeight, true);
             NumberOfBalls = 0;
 
             logic.PositionChangedEvent += (sender, b) =>
@@ -48,7 +48,7 @@ namespace Model
         public void StopProgram()
         {
             logic.ProgramStop();
-            logic = new BallLogic(SceneLength, SceneHeight);
+            logic = new BallLogic(SceneLength, SceneHeight, true);
             logic.PositionChangedEvent += (sender, b) =>
             {
                 BallPositionChange?.Invoke(this, new OnPositionChangeUiAdapterEventArgs(b.GetBall().Position, b.id));

@@ -10,7 +10,7 @@ namespace TestBalls
         public void TestMethod1()  // test testuje, czy pi³ki w symulacji zmieniaj¹ swoj¹ pozycjê po uruchomieniu symulacji.
         {
             var interactionCount = 0;
-            LogicAPI bl = new BallLogic(100, 100);
+            LogicAPI bl = new BallLogic(100, 100, false);
             bl.addBall(8);
             Assert.AreEqual(8, bl.getBallCount()); //sprawdza, czy po dodaniu 8 pi³ek do symulacji, ich liczba siê zgadza.
 

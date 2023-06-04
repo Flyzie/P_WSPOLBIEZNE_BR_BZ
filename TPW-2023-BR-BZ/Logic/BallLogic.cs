@@ -24,13 +24,22 @@ namespace Logic
         public CancellationTokenSource CancelSimulationSource { get; private set; }
 
         private bool _started = false;
+        private Logger logger;
+        private Clock _clock;
+        private bool _loggingEnable;
+
 
         //Konstruktor inicjalizujący kulki, scene i warunek stopu
-        public BallLogic(double w, double h)
+        public BallLogic(double w, double h, bool loggingEnable)
         {
             Scene = new Scene(w, h);
             Balls = new BallCount();
             CancelSimulationSource = new CancellationTokenSource();
+            _loggingEnable = loggingEnable;
+            if (loggingEnable)
+            {
+                logger = new Logger(@"C:\logger\Ball.log");
+            }
         }
 
         //Funkcja wywoływana gdy kulka zmieni swoją pozycje
@@ -78,7 +87,11 @@ namespace Logic
         public override void ProgramStart()
         {
             if (CancelSimulationSource.IsCancellationRequested) return;
-
+            if (_loggingEnable)
+            {
+                _clock = new Clock(LogData, 2000);
+                _clock.Start();
+            }
             CancelSimulationSource = new CancellationTokenSource();
 
             for (var i = 0; i < Balls.GetBallCount(); i++)
@@ -89,7 +102,17 @@ namespace Logic
             }
 
         }
+        private void LogData()
+        {
+            for (int i = 0; i < Balls.GetBallCount(); i++)
+            {
+                lock (Balls.BallsLock)
+                {
+                    logger.log("Ball " + i + "\t\tX: " + Balls.GetBall(i).Position.X + "\tY: " + Balls.GetBall(i).Position.Y);
 
+                }
+            }
+        }
         //Funkcja zatrzymująca symulacje
         public override void ProgramStop()
         {

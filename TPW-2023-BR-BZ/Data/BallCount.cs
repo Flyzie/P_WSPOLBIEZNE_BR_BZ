@@ -7,8 +7,8 @@ namespace Data
     public class BallCount : DataAPI
     {
         private List<Ball> balls;  //tutaj ustawiamy ilosc pilek
+        public readonly object BallsLock = new object();
 
-        public readonly object LockedBall = new object();
 
         public BallCount()
         {

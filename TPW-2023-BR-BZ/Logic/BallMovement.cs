@@ -47,7 +47,7 @@ namespace Logic
                 Vector2 featurePosition = this.ball.Position + this.ball.Speed;
 
                 //Kolizje i ten tego te sprawy
-                lock (Balls.LockedBall)
+                lock (Balls)
                 {
                     for (int i = 0; i < Balls.GetBallCount(); i++)
                     {
