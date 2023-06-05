@@ -25,8 +25,9 @@ namespace Logic
 
         private bool _started = false;
         private Logger logger;
-        private Clock _clock;
+      
         private bool _loggingEnable;
+        private Timer? timer;
 
 
         //Konstruktor inicjalizujący kulki, scene i warunek stopu
@@ -89,8 +90,7 @@ namespace Logic
             if (CancelSimulationSource.IsCancellationRequested) return;
             if (_loggingEnable)
             {
-                _clock = new Clock(LogData, 2000);
-                _clock.Start();
+                timer = new Timer(LogData, null, 0, 1000);
             }
             CancelSimulationSource = new CancellationTokenSource();
 
@@ -102,7 +102,7 @@ namespace Logic
             }
 
         }
-        private void LogData()
+        private void LogData(object? smh)
         {
             for (int i = 0; i < Balls.GetBallCount(); i++)
             {
@@ -116,6 +116,7 @@ namespace Logic
         //Funkcja zatrzymująca symulacje
         public override void ProgramStop()
         {
+            timer.Dispose();
             this.CancelSimulationSource.Cancel();
         }
 
